@@ -1,0 +1,48 @@
+{
+  "projects": [
+        {
+        "img": "../../content/images/project/portfoliowebsite.png",
+        "title": "Portfolio Website",
+        "description": "This is my personal portfolio website, </br> Where you can explore my projects, CV, and creative journey. </br> Discover my skills, passion, and vision. </br> (You're currently on this page!)",
+        "link": "",
+        "github": "https://github.com/TigoV2/TigoV2.github.io",
+        "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"]
+    },
+    {
+        "img": "../../content/images/project/gooberos.jpg",
+        "title": "Goober OS",
+        "description": "A linux like \"Web OS\" command line operating system made for a make-a-thon competition. </br> We won in our year category!",
+        "link": "https://jeav2.github.io/gooberos/",
+        "github": "https://github.com/JeaV2/gooberos",
+        "tags": ["JavaScript", "HTML", "CSS"]
+    },
+    {
+      "img": "../../content/images/project/TypeScript.avif",
+      "title": "API-Typescript project",
+      "description": "My current personal project. <br> Made for hypixel bedwars players. </br> (Work in progress).",
+      "link": "",
+      "github": "",
+      "tags": ["TypeScript", "Python", "API"]
+    },
+    {
+      "img": "../../content/images/project/pokemon_essentials.png",
+      "title": "Pokemon-Terrainium",
+      "description": "Pokemon Terrainium is a Pokemon fan game made in RPG Maker XP.",
+      "link": "",
+      "github": "",
+      "tags": ["RPG Maker XP", "Ruby"],
+      "subContent": [
+        {
+          "title": "Gifted - HA",
+          "description": "A custom plugin for Pokémon Terrainium that adds a chance for any gifted Pokémon to have its Hidden Ability.",
+          "github": ""
+        },
+        {
+          "title": "Pokemon-Terranium Biomes",
+          "description": "A custom made plugin for Pokemon Terrainium, that adds biomes to the game, used for battle machanics",
+          "github": ""
+        }
+     ]
+    }
+  ]
+}
